@@ -1,0 +1,35 @@
+_repo: The-Jolliest-Term-on-RecordA-Story-of-School-Life_33910
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Salmon, Balliol
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '8105'
+    url: http://www.gutenberg.org/2009/agents/8105
+covers:
+- cover_type: archival
+  image_path: 33910-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brazil, Angela
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '2544'
+    url: http://www.gutenberg.org/2009/agents/2544
+    wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
+description: ''
+gutenberg_issued: '2010-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boarding schools -- England -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Jolliest Term on Record: A Story of School Life'
+url: http://www.gutenberg.org/ebooks/33910
